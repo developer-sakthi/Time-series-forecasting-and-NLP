@@ -81,3 +81,28 @@ Lag 2 → $Y_{t-2}$
 ### Visualizing Stationarity with ACF and PACF
 
 - methods used : Line plot , ACF & PACF plots
+
+A stationary series:
+
+- Fluctuates around a constant mean
+
+- Has roughly constant variance
+
+- No long-term upward/downward trend
+
+- No changing spread over time
+
+Non-stationary series:
+
+- Has trend (up or down)
+
+- Has changing variance
+
+- Has seasonality
+
+- Looks like it “drifts”
+
+
+Rolling mean : 
+
+- if it shows lot of variation data is not stationary 
