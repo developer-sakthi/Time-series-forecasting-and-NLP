@@ -1,0 +1,4 @@
+- AR , MA models 
+- Parameter Selection and Tuning, Choosing lag (p, q). Tuning with grid search.
+- Model Evaluation ( AIC , BIC )
+- Residual Analysis (ACF,PACF)

@@ -1,0 +1,8 @@
+- Time series analysis ( Trend , Seasonality , Noise)
+- Lag 
+- Autocorrelation (ACF)
+- Partial Autocorrelation (PACF)
+- Time series decomposition
+- Stationarity and its types ( Strict and Weak )
+- Stationarity testing and its types ( ADF , KPSS )
+- Visualizing Stationarity with plots 
