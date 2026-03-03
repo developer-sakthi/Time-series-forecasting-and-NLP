@@ -1,0 +1,5 @@
+- text cleaning in NLP
+( lowercase, remove punctuation, remove stopwords , tokenization , removing numbers , correcting stopwords , removing numbers , removing special symbols )
+
+- text annotation and labeling 
+(Manual annotation, crowdsourcing, automated annotation , active learning ) 

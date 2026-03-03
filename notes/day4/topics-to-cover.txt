@@ -1,0 +1,6 @@
+- SARIMA  
+- parameters (P,Q,D,m) in SARIMA 
+- Seasonal differencing
+- regular vs seasonal differencing
+- SARIMAX
+- model evaluation for SARIMA and SARIMAX 

@@ -1,0 +1,5 @@
+- Fitting ARMA model 
+- What is differencing , removing trends with differencing
+- First order differencing, second order differencing 
+- ARIMA (Autoregressive Integrated Moving Average) model 
+- model evaluation arima and forecast accuracy

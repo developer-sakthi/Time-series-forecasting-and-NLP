@@ -1,0 +1,8 @@
+- Introduction to NLP and its applications 
+- Text preprocessing techniques
+    - Tokenization
+    - Stop word removal
+    - Stemming
+    - Lemmatization
+    - Part-of-Speech tagging
+    - Named Entity Recognition (NER)

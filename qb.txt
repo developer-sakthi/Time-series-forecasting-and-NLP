@@ -1,0 +1,4 @@
+15. Explain the concept of tokenization in NLP and its role in text preprocessing. 
+How does tokenization impact downstream NLP tasks ?
+
+16. How would you use NLP techniques to preprocess text data for sentiment analysis. Explain step involved in the process

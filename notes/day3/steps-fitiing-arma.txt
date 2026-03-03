@@ -1,0 +1,11 @@
+1. Make data stationary
+
+2. Use PACF → find p
+
+3. Use ACF → find q
+
+4. Fit ARMA(p,q)
+
+5. Compare AIC
+
+6. Check residuals

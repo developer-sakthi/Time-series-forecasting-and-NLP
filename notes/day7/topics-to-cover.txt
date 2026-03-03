@@ -1,0 +1,4 @@
+- rule based NLP 
+- rule based methods in NLP ( regex, keyword matching, linguistic rules , pattern based entity recognition etc. )
+- rule creation and pattern matching 
+- Implementation using Spacy's EntityRuler
