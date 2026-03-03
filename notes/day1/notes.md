@@ -79,3 +79,5 @@ Lag 2 → $Y_{t-2}$
 ![adf-vs-kpss](./resources/ADF-vs-KPSS.png)
 
 ### Visualizing Stationarity with ACF and PACF
+
+- methods used : Line plot , ACF & PACF plots
