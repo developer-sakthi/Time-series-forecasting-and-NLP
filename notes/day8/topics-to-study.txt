@@ -1,0 +1,5 @@
+- text classification
+- text vectorization - convert text to numerical form ( TF-IDF [term frequency - inverse document frequency] , Word2Vec )
+- binary text classification model 
+- Multi class and multi label classification models
+- confusion matirx and model evaluation ( F1 score , recall , precison , accuracy )

@@ -1,0 +1,5 @@
+- fastText for text classification ( multi label and multi class)
+- how is fastText different from other text classification models
+- training classification model with fa1stText
+- hyperparameter tuning for performance
+- Integrating genAI with fastText 
