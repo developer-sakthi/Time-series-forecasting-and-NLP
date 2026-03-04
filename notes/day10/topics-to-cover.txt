@@ -1,3 +1,4 @@
 - steps for genAI driven time series forecasting 
 - using google cloud AutoML for time series forecasting 
 - using genAI for NLP and text processing
+- write the spacy as example for gen AI in text processing

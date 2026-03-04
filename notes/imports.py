@@ -5,6 +5,12 @@ import spacy
 from spacy.pipeline import EntityRuler
 
 # =========================
+# Performance metrics
+# =========================
+from sklearn.metrics import accuracy_score, precision_score, recall_score, f1_score
+
+
+# =========================
 # Vectorization
 # =========================
 from sklearn.feature_extraction.text import CountVectorizer
