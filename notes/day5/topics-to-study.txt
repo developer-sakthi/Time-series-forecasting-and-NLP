@@ -1,5 +1,5 @@
 - Introduction to NLP and its applications 
-- Text preprocessing techniques
+- Text processing techniques
     - Tokenization
     - Stop word removal
     - Stemming

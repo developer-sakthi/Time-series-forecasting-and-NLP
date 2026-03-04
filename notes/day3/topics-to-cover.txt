@@ -2,4 +2,4 @@
 - What is differencing , removing trends with differencing
 - First order differencing, second order differencing 
 - ARIMA (Autoregressive Integrated Moving Average) model 
-- model evaluation arima and forecast accuracy ( mean absoulute , root mean absoulute error)
+- model evaluation arima and forecast accuracy ( mean absoulute error, mean square error)
