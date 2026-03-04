@@ -1,4 +1,47 @@
-15. Explain the concept of tokenization in NLP and its role in text preprocessing. 
-How does tokenization impact downstream NLP tasks ?
+11. 
+i.) Time series forecasting - identifying trends , seasonality , and noise 
 
-16. How would you use NLP techniques to preprocess text data for sentiment analysis. Explain step involved in the process
+- define trends, seasonality, and noise 
+- rolling statistics ( mean & std ) 
+- Decomposition 
+- ACF & PACF plots 
+- ADF test and KPSS test
+
+ii.) Statinarity testing 
+
+- definition
+- why important
+- ADF test
+- KPSS test
+- visual inspection ( ACF function )
+- How to make non-stationary data stationary ( differencing, seasonal differencing etc. )
+
+
+12. 
+i.) SARIMA model 
+- components ( AR , MA , seasonal AR , seasonal MA , differencing )
+- parameters ( p, d, q, P, D, Q, m )
+- fitting ( grid search , AIC )
+- forecasting 
+
+ii.) ARIMA VS SARIMA 
+- differences 
+- when to use which 
+- examples 
+
+
+13. 
+i.) Steps in training a ARMA model 
+- find p and q using ACF and PACF plots 
+- fit the model 
+- check the residuals 
+- forecast 
+
+ii.) SARIMAX 
+- impact of exogenous variables 
+- when to use which 
+- how exogenous variables are used to improve accuracy
+
+14. 
+
+
